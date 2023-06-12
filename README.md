@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India. I am a 3rd year student pursuing Bachelor’s of Technology in Computer Science with specialization in Artificial Intelligence. I am a self-motivated, ambitious and technical enthusiast, introduced to programming and development, always aspiring to learn latest technologies. An AI enthusiast, excellent in working with business users and solving a real-time problem with Data Science and Machine learning.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg0NTYzOWVjYjYyNzAwODNlNDI1NmYwZjYzMzM4NDkzNzJiNmZkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NgurY1o4z080Jfoyzw/giphy.gif">
+<img align="centre" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg0NTYzOWVjYjYyNzAwODNlNDI1NmYwZjYzMzM4NDkzNzJiNmZkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NgurY1o4z080Jfoyzw/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxxitaasingh" alt="laxxitaasingh" /></a> </p>
 
